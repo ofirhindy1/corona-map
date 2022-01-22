@@ -21,7 +21,7 @@
     "mongoose": "^5.9.9",
     "morgan": "^1.10.0",
     "mq": "0.0.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^3.1.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-geocode": "^0.2.1",
